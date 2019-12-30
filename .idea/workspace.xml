@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd1230d9-0540-48f9-b743-39084628b0b7" name="Default Changelist" comment="More updates are to come. Added a bash script activation &quot;wrapper&quot;. Screen shots will be taken in the next update." />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/custom_image_scraper$testing_file.coverage" NAME="testing-file Coverage Results" MODIFIED="1544787319523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/custom_image_scraper$notes.coverage" NAME="notes Coverage Results" MODIFIED="1560849503297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/custom_image_scraper$main.coverage" NAME="main Coverage Results" MODIFIED="1544797235567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/custom_image_scraper$check_alternatives.coverage" NAME="check_alternatives Coverage Results" MODIFIED="1560849234987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Svl28rceqxOyJgc878KvXmRY82" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/code/downloads/combined" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.splitter.proportion" value="0.30731225" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code/downloads/combined" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code" />
+      <recent name="$PROJECT_DIR$/code/scraping-backend-alternatives" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="check_alternatives" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="custom-image-scraper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/check_alternatives.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="custom-image-scraper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/custom-image-scraper-env/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="notes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="custom-image-scraper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/view_notes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.notes" />
+        <item itemvalue="Python.check_alternatives" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd1230d9-0540-48f9-b743-39084628b0b7" name="Default Changelist" comment="" />
+      <created>1543358079724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543358079724</updated>
+      <workItem from="1544618142756" duration="1286000" />
+      <workItem from="1544734699759" duration="183000" />
+      <workItem from="1544735344270" duration="598000" />
+      <workItem from="1544774723464" duration="21858000" />
+      <workItem from="1544826050143" duration="892000" />
+      <workItem from="1544875843213" duration="12349000" />
+      <workItem from="1544893714189" duration="248000" />
+      <workItem from="1544894572622" duration="13431000" />
+      <workItem from="1544911005098" duration="5190000" />
+      <workItem from="1544961027483" duration="8779000" />
+      <workItem from="1545044778173" duration="697000" />
+      <workItem from="1545127737249" duration="457000" />
+      <workItem from="1545130356499" duration="1693000" />
+      <workItem from="1545212279647" duration="11768000" />
+      <workItem from="1545309319559" duration="26405000" />
+      <workItem from="1545351332786" duration="81000" />
+      <workItem from="1545388396878" duration="2160000" />
+      <workItem from="1545392375245" duration="233000" />
+      <workItem from="1545393037006" duration="7000" />
+      <workItem from="1545408432116" duration="5403000" />
+      <workItem from="1545518507994" duration="4061000" />
+      <workItem from="1545560230391" duration="667000" />
+      <workItem from="1545563606066" duration="6978000" />
+      <workItem from="1545588658435" duration="698000" />
+      <workItem from="1547746821130" duration="3543000" />
+      <workItem from="1548877363775" duration="61000" />
+      <workItem from="1550235340512" duration="249000" />
+      <workItem from="1560612152134" duration="2772000" />
+      <workItem from="1560805070419" duration="1132000" />
+      <workItem from="1560843679776" duration="6810000" />
+      <workItem from="1560935397947" duration="104000" />
+      <workItem from="1560936148024" duration="36000" />
+      <workItem from="1572451745377" duration="62000" />
+      <workItem from="1572451819688" duration="124000" />
+      <workItem from="1572451954977" duration="287000" />
+      <workItem from="1572452265115" duration="91000" />
+      <workItem from="1572452370032" duration="148000" />
+      <workItem from="1572452653217" duration="482000" />
+      <workItem from="1572453148804" duration="66000" />
+      <workItem from="1572623369363" duration="38000" />
+      <workItem from="1572623434843" duration="437000" />
+      <workItem from="1572623886167" duration="80000" />
+      <workItem from="1572623980685" duration="59000" />
+      <workItem from="1577383049171" duration="12364000" />
+      <workItem from="1577439083471" duration="5932000" />
+      <workItem from="1577481707564" duration="2412000" />
+      <workItem from="1577534301775" duration="12658000" />
+      <workItem from="1577701623390" duration="2754000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added the bash-script-activation.py file.">
+      <created>1544788252946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544788252947</updated>
+    </task>
+    <task id="LOCAL-00002" summary="More updates are to come. Added a bash script activation &quot;wrapper&quot;.">
+      <created>1544796179814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544796179814</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the bash-script-activation.py file." />
+    <MESSAGE value="More updates are to come. Added a bash script activation &quot;wrapper&quot;." />
+    <MESSAGE value="More updates are to come. Added a bash script activation &quot;wrapper&quot;. Screen shots will be taken in the next update." />
+    <option name="LAST_COMMIT_MESSAGE" value="More updates are to come. Added a bash script activation &quot;wrapper&quot;. Screen shots will be taken in the next update." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/custom_image_scraper$main.coverage" NAME="main Coverage Results" MODIFIED="1577394411713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+  </component>
+</project>
